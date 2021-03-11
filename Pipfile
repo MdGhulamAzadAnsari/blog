@@ -25,6 +25,7 @@ werkzeug = "1.0.1"
 wtforms = "2.3.3"
 flask-login = "*"
 flask-gravatar = "*"
+gunicorn = "*"
 
 [dev-packages]
 
