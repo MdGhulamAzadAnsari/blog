@@ -26,6 +26,7 @@ wtforms = "2.3.3"
 flask-login = "*"
 flask-gravatar = "*"
 gunicorn = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
